@@ -4,7 +4,7 @@ His showcase Video: https://www.youtube.com/watch?v=faIIC5cTiiQ&fbclid=IwAR13YNa
 
 ## [Go to the Tutorial](https://github.com/REDDE4D/McLightning-Tutorial/wiki)
 
-## Requierements:
+## Requirements:
 - Arduino D1 Mini or simulare (we used the on from AZ-Delivery) 
 - Arduino IDE
 - WS2812B SMD Lightningstrip (we used the WS1228B 5050 5m 30LED from BTF) 
