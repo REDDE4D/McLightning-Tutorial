@@ -9,7 +9,7 @@ His showcase Video: https://www.youtube.com/watch?v=faIIC5cTiiQ&fbclid=IwAR13YNa
 - Powersupply 5V 10A
 - MicroUSB Cable
 
-##Used Libraries
+## Used Libraries
 - Toblum **McLightning** https://github.com/toblum/McLighting
 - Arduino **ESP8266** https://github.com/esp8266/Arduino
 - Tzapu **WifiManager** https://github.com/tzapu/WiFiManager
